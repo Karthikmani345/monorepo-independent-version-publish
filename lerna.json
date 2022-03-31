@@ -5,7 +5,15 @@
   "version": "independent",
   "command": {
     "publish": {
-      "registry": "http://127.0.0.1:4873"
+      "registry": "http://127.0.0.1:4873",
+      "npmClient": "npm",
+      "conventionalCommits": true,
+      "message": "chore(release): publish",
+      "includeMergedTags": true,
+      "ignoreChanges": [
+        "**/__tests__/**",
+        "**/*.md"
+      ]
     }
   }
 }
