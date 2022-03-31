@@ -17,6 +17,5 @@ module.exports = function getDate(
 function name() {
   // console.log(pckName);
   console.log('namex');
-
 }
 
