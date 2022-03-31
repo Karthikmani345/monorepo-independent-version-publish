@@ -1,0 +1,12 @@
+{
+  "name": "@lerna-monorepo/date-renderer",
+  "version": "0.0.0",
+  "description": "A package that prints the current date",
+  "main": "index.js",
+  "repository": "https://github.com/Karthikmani345/lerna-monorepo",
+  "scripts": {
+    "test": "echo TESTS PASSED"
+  },
+  "author": "",
+  "license": "ISC"
+}

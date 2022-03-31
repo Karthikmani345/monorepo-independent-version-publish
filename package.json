@@ -1,0 +1,22 @@
+{
+  "name": "monorepo",
+  "version": "0.0.0",
+  "description": "A repository with multiple packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karthikmani345/lerna-monorepo.git"
+  },
+  "author": "Kartik Mani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karthikmani345/lerna-monorepo/issues"
+  },
+  "homepage": "https://github.com/Karthikmani345/lerna-monorepo#readme",
+  "dependencies": {
+    "lerna": "^4.0.0"
+  }
+}
