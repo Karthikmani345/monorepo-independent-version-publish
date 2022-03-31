@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.3](https://github.com/Karthikmani345/monorepo-independent-version-publish/compare/@lerna-monorepo/date-renderer@0.1.2...@lerna-monorepo/date-renderer@0.1.3) (2022-03-31)
+
+
+### Bug Fixes
+
+* rendered integration ([aab8114](https://github.com/Karthikmani345/monorepo-independent-version-publish/commit/aab81141186f6db3e94c70e98366dbd5e6c012e1))
+
+
+
+
+
 ## [0.1.2](https://github.com/Karthikmani345/monorepo-independent-version-publish/compare/@lerna-monorepo/date-renderer@0.1.1...@lerna-monorepo/date-renderer@0.1.2) (2022-03-31)
 
 **Note:** Version bump only for package @lerna-monorepo/date-renderer
