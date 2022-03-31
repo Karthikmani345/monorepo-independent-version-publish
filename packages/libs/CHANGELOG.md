@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.2](https://github.com/Karthikmani345/monorepo-independent-version-publish/compare/@lerna-monorepo/libs@0.1.1...@lerna-monorepo/libs@0.1.2) (2022-03-31)
+
+
+### Bug Fixes
+
+* added publish config in all folder ([7228555](https://github.com/Karthikmani345/monorepo-independent-version-publish/commit/7228555bcb909201fec0caaa21085962a8fc6afb))
+
+
+
+
+
 ## [0.1.1](https://github.com/Karthikmani345/monorepo-independent-version-publish/compare/@lerna-monorepo/libs@0.1.0...@lerna-monorepo/libs@0.1.1) (2022-03-31)
 
 

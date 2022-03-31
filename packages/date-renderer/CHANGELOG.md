@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.4](https://github.com/Karthikmani345/monorepo-independent-version-publish/compare/@lerna-monorepo/date-renderer@0.1.3...@lerna-monorepo/date-renderer@0.1.4) (2022-03-31)
+
+
+### Bug Fixes
+
+* added publish config in all folder ([7228555](https://github.com/Karthikmani345/monorepo-independent-version-publish/commit/7228555bcb909201fec0caaa21085962a8fc6afb))
+
+
+
+
+
 ## [0.1.3](https://github.com/Karthikmani345/monorepo-independent-version-publish/compare/@lerna-monorepo/date-renderer@0.1.2...@lerna-monorepo/date-renderer@0.1.3) (2022-03-31)
 
 
