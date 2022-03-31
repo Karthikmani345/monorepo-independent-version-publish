@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Karthikmani345/lerna-monorepo.git"
+    "url": "git+https://github.com/Karthikmani345/monorepo-independent-version-publish.git"
   },
   "author": "Kartik Mani",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Karthikmani345/lerna-monorepo/issues"
   },
-  "homepage": "https://github.com/Karthikmani345/lerna-monorepo#readme",
+  "homepage": "https://github.com/Karthikmani345/monorepo-independent-version-publish#readme",
   "dependencies": {
     "lerna": "^4.0.0"
   }
