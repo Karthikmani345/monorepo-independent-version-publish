@@ -1,6 +1,6 @@
 {
   "name": "@lerna-monorepo/date-logic",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A package that returns the current date",
   "main": "index.js",
   "repository": "https://github.com/Karthikmani345/monorepo-independent-version-publish",

@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.2](https://github.com/Karthikmani345/monorepo-independent-version-publish/compare/@lerna-monorepo/date-logic@0.1.1...@lerna-monorepo/date-logic@0.1.2) (2022-03-31)
+
+
+### Bug Fixes
+
+* trying to publish ([d01f474](https://github.com/Karthikmani345/monorepo-independent-version-publish/commit/d01f4740405ca9acf6f001f414bee6f690ceca2f))
+
+
+
+
+
 ## [0.1.1](https://github.com/Karthikmani345/monorepo-independent-version-publish/compare/@lerna-monorepo/date-logic@0.1.0...@lerna-monorepo/date-logic@0.1.1) (2022-03-31)
 
 
